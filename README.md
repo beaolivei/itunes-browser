@@ -11,7 +11,7 @@ This small app pulls data from the Itunes API, and retrives both the top 100 son
 
 The app was generated with Create React App and for coding I used the react framwork on its latest version (including hooks). For the UI, I used material UI with a custom theme and for styling, I used styled components. For testing it uses the integrated jest set up (from create react app) with the behavavioural approach brought from react-testing-library (the test suit still needs to be properly finished). 
 
-You can check the ""design""I've created on Figma (in here)[https://www.figma.com/file/HzVVzviaL2KnZCucgZpJ6e/musicApp?node-id=0%3A1]
+You can check the ""design""I've created on Figma [in here](https://www.figma.com/file/HzVVzviaL2KnZCucgZpJ6e/musicApp?node-id=0%3A1)
 
 
 I have created a deployment pipeline with Netilifly and the public URL can be checked on this link: https://trusting-lichterman-200a63.netlify.app/
